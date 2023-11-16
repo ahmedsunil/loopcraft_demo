@@ -1,7 +1,5 @@
 # Demo App
 
-A demo application to illustrate how Admin works.
-
 ![Filament Demo](https://user-images.githubusercontent.com/21066418/180368112-cfccda8d-a442-43e3-8cf3-3ba04f42247d.png)
 
 ## Installation
@@ -64,3 +62,5 @@ You're ready to go! Visit the url in your browser, and login with:
 
 -   **Username:** admin@admin.com
 -   **Password:** password
+- 
+API Document, ERD and Postman Collections are in the docs folder
