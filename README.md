@@ -64,3 +64,12 @@ You're ready to go! Visit the url in your browser, and login with:
 -   **Password:** password
 - 
 API Document, ERD and Postman Collections are in the docs folder
+
+API Authentication Endpoints
+```sh
+    /api/register
+```
+
+```sh
+    /api/login
+```
