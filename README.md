@@ -16,6 +16,13 @@ Install PHP dependencies:
 composer install
 ```
 
+Install node Modules:
+
+```sh
+npm install
+```
+
+
 Setup configuration:
 
 ```sh
